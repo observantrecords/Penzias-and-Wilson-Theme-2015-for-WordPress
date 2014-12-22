@@ -8,8 +8,6 @@
 
 namespace ObservantRecords\WordPress\Themes\PenziasAndWilson;
 
-use ObservantRecords\WordPress\Themes\ObservantRecords2015\TemplateTags;
-
 ?>
 <html <?php language_attributes();?>>
 <head>
