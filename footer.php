@@ -9,7 +9,7 @@
 namespace ObservantRecords\WordPress\Themes\PenziasAndWilson;
 
 ?>
-		<img src="<?php echo get_stylesheet_directory_uri(); ?>/images/dark_balcony-half.jpg" class="bg" />
+		<img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/dark_balcony-half.jpg" class="bg" />
 
 	</div>
 
