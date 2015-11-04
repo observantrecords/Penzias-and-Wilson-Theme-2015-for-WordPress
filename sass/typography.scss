@@ -13,3 +13,15 @@ body {
 #logo {
 	font-family: 'Montserrat Subrayada', sans-serif;
 }
+
+footer {
+  color: #FFF;
+  font-size: 95%;
+  a {
+    color: #FFF;
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
+  }
+}

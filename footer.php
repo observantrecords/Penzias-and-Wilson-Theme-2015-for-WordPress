@@ -8,8 +8,12 @@
 
 namespace ObservantRecords\WordPress\Themes\PenziasAndWilson;
 
+use ObservantRecords\WordPress\Themes\ObservantRecords2015\TemplateTags;
+
 ?>
-    <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/dark_balcony-half.jpg" class="bg" />
+        </div>
+
+        <img src="<?php echo get_stylesheet_directory_uri(); ?>/assets/images/dark_balcony-half.jpg" class="bg" />
 
     </div>
 
