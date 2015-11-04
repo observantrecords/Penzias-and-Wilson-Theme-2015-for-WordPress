@@ -4,7 +4,7 @@ Author: Greg Bueno
 Author URI: http://vigilantmedia.com/
 Description: A WordPress theme customized for Penzias and Wilson, based on the Observant Records theme.
 Template: observantrecords2015
-Version: 2.1
+Version: 2.1.1
 Text Domain: penziasandwilson
 */
 @import url(../observantrecords2015/style.css);
@@ -42,9 +42,6 @@ a {
   #title a {
     text-decoration: none;
     color: #FFF; }
-
-#logo {
-  font-family: 'Montserrat Subrayada', sans-serif; }
 
 footer {
   color: #F0F0F0;
