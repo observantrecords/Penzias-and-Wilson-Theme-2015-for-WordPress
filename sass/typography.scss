@@ -1,5 +1,12 @@
 body {
-	color: #CCC;
+	color: $flat-white;
+}
+
+a {
+  color: $light-blue-2;
+  &:hover {
+    color: $flat-red;
+  }
 }
 
 #title {
@@ -15,10 +22,10 @@ body {
 }
 
 footer {
-  color: #FFF;
+  color: $flat-white;
   font-size: 95%;
   a {
-    color: #FFF;
+    color: $light-grey-2;
     text-decoration: underline;
     &:hover {
       text-decoration: none;

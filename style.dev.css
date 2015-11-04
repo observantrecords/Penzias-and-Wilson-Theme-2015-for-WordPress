@@ -30,7 +30,12 @@ img.bg {
   z-index: -1; }
 
 body {
-  color: #CCC; }
+  color: #F0F0F0; }
+
+a {
+  color: #B5D2FF; }
+  a:hover {
+    color: #F16543; }
 
 #title {
   font-family: 'Montserrat Subrayada', sans-serif; }
@@ -42,10 +47,10 @@ body {
   font-family: 'Montserrat Subrayada', sans-serif; }
 
 footer {
-  color: #FFF;
+  color: #F0F0F0;
   font-size: 95%; }
   footer a {
-    color: #FFF;
+    color: #CBCBCB;
     text-decoration: underline; }
     footer a:hover {
       text-decoration: none; }
