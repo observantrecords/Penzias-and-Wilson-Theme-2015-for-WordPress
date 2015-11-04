@@ -1,11 +1,27 @@
-body {
-  background-color: #000;
+body{
+	background-color: #000;
 }
 
-img.bg {
-  position: fixed;
-  top: 0;
-  left: 0;
-  width: 100%;
-  z-index: -1;
+#masthead {
+  background-color: transparent;
+  background-image: none;
+}
+
+#title {
+  margin-top: 10px;
+}
+
+#footer {
+  background-color: transparent;
+  background-image: none;
+}
+
+
+img.bg
+{
+	position: fixed;
+	top: 0;
+	left: 0;
+	width: 100%;
+	z-index: -1;
 }

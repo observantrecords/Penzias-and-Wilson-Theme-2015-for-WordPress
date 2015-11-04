@@ -1,7 +1,34 @@
 body {
-  color: #CCC;
+	color: $flat-white;
+}
+
+a {
+  color: $light-blue-2;
+  &:hover {
+    color: $flat-red;
+  }
+}
+
+#title {
+  font-family: 'Montserrat Subrayada', sans-serif;
+  a {
+    text-decoration: none;
+    color: #FFF;
+  }
 }
 
 #logo {
-  font-family: 'Montserrat Subrayada', sans-serif;
+	font-family: 'Montserrat Subrayada', sans-serif;
+}
+
+footer {
+  color: $flat-white;
+  font-size: 95%;
+  a {
+    color: $light-grey-2;
+    text-decoration: underline;
+    &:hover {
+      text-decoration: none;
+    }
+  }
 }
